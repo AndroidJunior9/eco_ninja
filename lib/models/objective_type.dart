@@ -1,0 +1,4 @@
+enum ObjectiveType {
+  score,
+  time,
+}
